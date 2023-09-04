@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFjIqLZn3X8pHlsHegOJG5ITb3qpSYNCYXta6IuQxRlTsub3Dtf8LoqUJlDpS1hcbKpZf0gXiKgcTgVYsgPPfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smell\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\OverweightExpanse\\OverweightExpanse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smell\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
